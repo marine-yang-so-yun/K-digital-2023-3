@@ -8,7 +8,7 @@
 + pnu40105	김은빈 : 
 + pnu40106	김재민 : 
 + pnu40107	박수현 : 
-+ pnu40108	손병희 : 
++ pnu40108	손병희 : https://github.com/Byeonghee-son
 + pnu40109	양성부 : 
 + pnu40110	양소윤 : 
 + pnu40111	유동수 : 
