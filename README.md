@@ -17,7 +17,7 @@
 + pnu40114	이예진 : 
 + pnu40115	이해주 : 
 + pnu40116	이현진 : 
-+ pnu40117	정승길 : 
++ pnu40117	정승길 : https://github.com/MyStraw
 + pnu40118	조원준 : 
 + pnu40119	최호진 : 
 + pnu40120	하성진 : 
