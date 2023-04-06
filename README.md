@@ -23,6 +23,6 @@
 + pnu40119	최호진 : https://github.com/Gansaw/
 + pnu40120	하성진 : https://github.com/honeydanji
 + pnu40121	허지은 : https://github.com/JIeunhuh
-+ pnu40122	홍세현 : 
++ pnu40122	홍세현 : https://github.com/hong-sehyun
 + pnu40123	황선영 : 
 
