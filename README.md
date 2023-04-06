@@ -19,7 +19,7 @@
 + pnu40116	이현진 : 
 + pnu40117	정승길 : 
 + pnu40118	조원준 : 
-+ pnu40119	최호진 : https://gansaw.github.io/htmlcss/
++ pnu40119	최호진 : https://github.com/Gansaw/
 + pnu40120	하성진 : 
 + pnu40121	허지은 : 
 + pnu40122	홍세현 : 
