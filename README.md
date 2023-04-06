@@ -7,7 +7,7 @@
 + pnu40103	김민범 : 
 + pnu40104	김원일 : https://github.com/WonilKim
 + pnu40105	김은빈 : 
-+ pnu40106	김재민 : 
++ pnu40106	김재민 : https://github.com/JaeMin1130
 + pnu40107	박수현 : https://github.com/SuHyunParkSunshine
 + pnu40108	손병희 : https://github.com/Byeonghee-son
 + pnu40109	양성부 : 
