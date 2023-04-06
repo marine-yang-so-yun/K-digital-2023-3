@@ -12,7 +12,7 @@
 + pnu40109	양성부 : 
 + pnu40110	양소윤 : 
 + pnu40111	유동수 : 
-+ pnu40112	이수연 : 
++ pnu40112	이수연 : https://github.com/LEESUSUSUSU
 + pnu40113	이수호 : 
 + pnu40114	이예진 : 
 + pnu40115	이해주 : 
