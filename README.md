@@ -10,7 +10,7 @@
 + pnu40107	박수현 : 
 + pnu40108	손병희 : 
 + pnu40109	양성부 : 
-+ pnu40110	양소윤 : 
++ pnu40110	양소윤 : https://github.com/marine-yang-so-yun
 + pnu40111	유동수 : 
 + pnu40112	이수연 : 
 + pnu40113	이수호 : 
