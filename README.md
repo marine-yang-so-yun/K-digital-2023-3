@@ -7,14 +7,14 @@
 + pnu40104	김원일 : 
 + pnu40105	김은빈 : 
 + pnu40106	김재민 : 
-+ pnu40107	박수현 : 
++ pnu40107	박수현 : https://github.com/SuHyunParkSunshine
 + pnu40108	손병희 : 
 + pnu40109	양성부 : 
 + pnu40110	양소윤 : https://github.com/marine-yang-so-yun
 + pnu40111	유동수 : 
 + pnu40112	이수연 : 
 + pnu40113	이수호 : 
-+ pnu40114	이예진 : 
++ pnu40114	이예진 : https://github.com/YeDongVibe
 + pnu40115	이해주 : 
 + pnu40116	이현진 : 
 + pnu40117	정승길 : 
