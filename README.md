@@ -22,6 +22,6 @@
 + pnu40119	최호진 : 
 + pnu40120	하성진 : 
 + pnu40121	허지은 : 
-+ pnu40122	홍세현 : 
++ pnu40122	홍세현 : https://github.com/hong-sehyun
 + pnu40123	황선영 : 
 
