@@ -16,7 +16,7 @@
 + pnu40113	이수호 : 
 + pnu40114	이예진 : 
 + pnu40115	이해주 : 
-+ pnu40116	이현진 : 
++ pnu40116	이현진 : https://github.com/fabbitox
 + pnu40117	정승길 : 
 + pnu40118	조원준 : 
 + pnu40119	최호진 : 
