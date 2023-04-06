@@ -13,7 +13,7 @@
 + pnu40109	양성부 : 
 + pnu40110	양소윤 : https://github.com/marine-yang-so-yun
 + pnu40111	유동수 : 
-+ pnu40112	이수연 : 
++ pnu40112	이수연 : https://github.com/LEESUSUSUSU
 + pnu40113	이수호 : https://github.com/suho0815
 + pnu40114	이예진 : https://github.com/YeDongVibe
 + pnu40115	이해주 : https://github.com/hadduu13
