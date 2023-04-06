@@ -4,7 +4,7 @@
 + pnu40101	김은진 : 
 + pnu40102	강주희 : 
 + pnu40103	김민범 : 
-+ pnu40104	김원일 : 
++ pnu40104	김원일 : https://github.com/WonilKim
 + pnu40105	김은빈 : 
 + pnu40106	김재민 : 
 + pnu40107	박수현 : 
