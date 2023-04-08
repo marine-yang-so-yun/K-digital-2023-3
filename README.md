@@ -25,5 +25,6 @@
 + pnu40121	허지은 : https://github.com/JIeunhuh
 + pnu40122	홍세현 : https://github.com/hong-sehyun
 + pnu40123	황선영 : 
++ pnu40124  김광일 : https://github.com/vergtx
 
 수정
