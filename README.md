@@ -10,7 +10,7 @@
 + pnu40106	김재민 : https://github.com/JaeMin1130
 + pnu40107	박수현 : https://github.com/SuHyunParkSunshine
 + pnu40108	손병희 : https://github.com/Byeonghee-son
-+ pnu40109	양성부 : 
++ pnu40109	양성부 : https://github.com/icecaptin
 + pnu40110	양소윤 : https://github.com/marine-yang-so-yun
 + pnu40111	유동수 : https://github.com/syntaxlake
 + pnu40112	이수연 : https://github.com/LEESUSUSUSU
